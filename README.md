@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate student in Computer Engineering at the State University of Feira de Santana (UEFS). Currently, I'm focused on improving my skills in full-stack web development technologies, including Backend, Frontend, and Databases. Additionally, I am delving into important software engineering concepts such as Domain-Driven Design (DDD), Test-Driven Development (TDD), and clean architecture.</p>
+<p align="left">I have a bachelors's degree in Computer Engineering from State University of Feira de Santana (UEFS). Currently, I'm focused on improving my skills in full-stack web development technologies, including Backend, Frontend, and Databases. Additionally, I am delving into important software engineering concepts such as Domain-Driven Design (DDD), Test-Driven Development (TDD), and clean architecture.</p>
 
 ###
 
